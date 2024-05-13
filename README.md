@@ -8,6 +8,7 @@ The Employee Management App is a web application developed using ASP.NET for eff
 
 ![Static Badge](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&labelColor=black)
+![Static Badge](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&labelColor=black)
 
 ## Features
 
